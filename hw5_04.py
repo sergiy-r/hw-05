@@ -1,4 +1,4 @@
-# Module 4 Homework: Exercise 4
+# Module 5 Homework: Exercise 4
 # This is program for a Command Line Interface bot that allows to interact with a contact list
 # It allows a user to add, change, and retrieve a contact's phone number, as well as print all contacts
 # Names and commands are case-insensitive.
