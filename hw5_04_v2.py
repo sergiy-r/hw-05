@@ -131,7 +131,7 @@ def main():
             pass
         else:
             print(parse_input('other'))  # if command is not in the list, 'other' triggers a Warning in parse_input
-                                         # which is in turn handled by input_error decorator
+                                         # which is in turn handled by input_error decorator.
 
 
 if __name__ == "__main__":
